@@ -28,23 +28,14 @@ Dataset used: MovieLens-1M
 Epoch Loss
 <figure align = "center">
     <img src="img/loss.png" width = "500">
-    <figcaption align = "center">
-        <b>Loss curve across epochs</b>
-    </figcaption>
 </figure>
 
 Hitrate@10
 <figure align = "center">
     <img src="img/hr.png" width = "500">
-    <figcaption align = "center">
-        <b>Hitrate@10 across epochs</b>
-    </figcaption>
 </figure>
 
 NDCG@10
 <figure align = "center">
     <img src="img/ndcg.png" width = "500">
-    <figcaption align = "center">
-        <b>NDCG@10 across epochs</b>
-    </figcaption>
 </figure>
